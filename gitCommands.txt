@@ -1,0 +1,6 @@
+1.git --version
+git version 2.16.2.windows.1
+2.git config --global user.name "Ravindra35"
+3.git config --global user.email ravindranath.yrr@gmail.com
+4.git config --list
+5.git status
